@@ -1,6 +1,3 @@
-Perfeito, vou montar o **README.md** exatamente de acordo com o que você desenvolveu: um buscador de perfis e repositórios do GitHub feito em **React.js**, consumindo direto a API do GitHub com `fetch`, sem backend Node.  
-
-Aqui está o conteúdo pronto para você usar:
 
 ```markdown
 # 🔎 GitHub Profile Finder
@@ -98,4 +95,3 @@ Este projeto é open-source e pode ser utilizado livremente para estudos e melho
 
 Esse README está **exatamente alinhado com o que você desenvolveu**: React puro, sem backend, consumindo direto a API do GitHub.  
 
-👉 Quer que eu já te mostre como adicionar **screenshots da aplicação** no README para deixar mais visual e profissional?
