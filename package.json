@@ -2,7 +2,7 @@
   "name": "github-search-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Li-code1/GitHub-Profile-Finder.git",
+  "homepage": "https://Li-Code1.github.io/github-search-frontend",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
